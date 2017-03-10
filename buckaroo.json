@@ -1,0 +1,6 @@
+{
+  "name": "cppzmq",
+  "dependencies": {
+    "libzmq": "4.2.2"
+  }
+}
